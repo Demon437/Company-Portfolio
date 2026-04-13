@@ -91,7 +91,7 @@ export const projectData = [
       { label: "Backend", value: "API + DB + Email" },
       { label: "UX Goal", value: "Guest Conversion" },
     ],
-    liveLink: "https://resort-website-1.netlify.app/",
+    liveLink: "https://resort.webixinfotech.in",
   },
 
   // CAR RENTAL PLATFORM
